@@ -1,0 +1,22 @@
+_repo: My-Book-of-Indoor-Games_13022
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Squareman, Clarence
+    gutenberg_agent_id: '4782'
+    url: http://www.gutenberg.org/2009/agents/4782
+description: ''
+gutenberg_issued: '2004-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Games'
+- GITenberg
+title: My Book of Indoor Games
+url: http://www.gutenberg.org/ebooks/13022
